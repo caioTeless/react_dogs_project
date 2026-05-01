@@ -1,7 +1,7 @@
 # React Dogs
 This project was developed during the front-end react course from origamid.
 
-It is like a social media por pets.
+It is like a social media for pets.
 
 Main tools: React + Vite + Js + Css.
 
